@@ -164,7 +164,7 @@ with st.container():
         "Annual Income (CAD)",
         min_value=0,
         max_value=1000000,
-        value=250000,
+        value=60000,
         step=1000,
         help="Your gross annual income before taxes",
         format="%d"  # Cleaner number format
